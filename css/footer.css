@@ -1,0 +1,60 @@
+.footer {
+  text-align: left;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 35px;
+  width: 100%;
+  background-color: hsl(0, 0%, 83%);
+  color: hsl(0, 0%, 100%);
+  border-top: 3px solid hsl(0, 0%, 100%);
+}
+
+.footer__header {
+  text-align: center;
+  padding: 0 20px;
+  margin: 0 auto;
+  color: hsl(0, 0%, 0%);
+}
+
+.footer__link {
+  line-height: 2.1;
+  color: hsl(0, 0%, 100%);
+}
+
+.website__color--blue {
+  color: hsl(240, 100%, 50%);
+}
+
+
+.youtube__color {
+  color: hsl(0, 100%, 50%);
+}
+
+.youtube__color--black {
+  color: hsl(0, 0%, 0%);
+}
+
+.youtube__color--red {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 100%, 50%);
+}
+
+.youtube__color--brown {
+  color: hsl(0, 59%, 31%);
+}
+
+.viber__color {
+  color: hsl(254, 82%, 65%);
+}
+
+.email__color--lightseagreen {
+  color: hsl(177, 70%, 41%);
+}
+
+.footer__header--author {
+  border-top: 3px solid hsl(0, 0%, 100%);
+  border-bottom: 3px solid hsl(0, 0%, 100%);
+  padding: 25px;
+  text-align: center;
+}
